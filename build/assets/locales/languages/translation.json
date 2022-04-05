@@ -4,6 +4,7 @@
         "ru": "Ru",
         "en": "En"
     },
+
     "tName": {
         "uz": "So'x-Oqtepa Irrigatsiya tizimi boshqarmasi",
         "ru": "Сох-Октепинское управление ирригационных систем",
@@ -20,9 +21,9 @@
         "en": "Address"
     },
     "tAddress": {
-        "uz": "Farg'ona viloyati Qo'qon shaxri 5-uy",
-        "ru": "Ферганская область, г. Коканд, 5",
-        "en": "5, Kokand city, Fergana region"
+        "uz": "Farg'ona viloyati Qo'qon shaxri I.Buxoriy 5-uy",
+        "ru": "И.Бухари 5, г.Коканд, Ферганская область",
+        "en": "I.Bukhari 5, Kokand city, Fergana region"
     },
     "Boshqarma": {
         "uz": "Boshqarma",
@@ -508,6 +509,11 @@
         "ru": "Контакты",
         "en": "Contact information"
     },
+    "AloqaXizmatiT": {
+        "uz": "So‘x-Oqtepa irrigasiya tizimi boshqarmasi  rahbariyatining Jismoniy shaxslar va yuridik shaxslar vakillarini qabul qilish jadvali",
+        "ru": "График приема руководства Сох-Октепинского управления ирригации для физических и юридических лиц",
+        "en": "Sokh-Oktepa Irrigation Department Management Reception schedule for individuals and legal entities"
+    },
     "fikrMulohaza": {
         "uz": "Fikr mulohazalar qismi",
         "ru": "часть обратной связи",
@@ -672,6 +678,11 @@
         "uz": "Hayat",
         "en": "Team",
         "ru": "Команда"
+    },
+    "HayatT": {
+        "uz": "Бошқарма ички буйруғи",
+        "en": "Internal order of the Board",
+        "ru": "Внутренний порядок правления"
     },
     "SuvBolimlari": {
         "uz": "Suv bo’limlari",
